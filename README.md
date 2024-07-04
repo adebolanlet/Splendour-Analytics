@@ -1,4 +1,4 @@
-A raw csv data gotten from Twitte. First data analytics project.
-Data cleaning donw with power Query.
+A raw csv data gotten from Twitter. First data analytics project.
+Data cleaning done with Power Query.
 Visualization done by PowerBI.
-Power point presentation used for data presnetation.
+Power point presentation used for data presentation.
